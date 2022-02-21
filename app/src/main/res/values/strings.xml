@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="textView">TextView</string>
+    <string name="welcome_message">Hello, %1$s!</string>
+    <string name="namePlaceholder">enter your name</string>
+    <string name="buttonLabel">Display</string>
+    <string name="name">Name:</string>
+</resources>
